@@ -1,2 +1,2 @@
-# mtc-infra-dev
-terraform code for the terraform course
+#This is a dev env for terraform
+The owner is Boyan Balev 
